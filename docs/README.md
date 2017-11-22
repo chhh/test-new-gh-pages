@@ -1,4 +1,4 @@
-## This is the original readme file
+## Welcome to GitHub Pages (new readme file)
 
 You can use the [editor on GitHub](https://github.com/chhh/test-new-gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
