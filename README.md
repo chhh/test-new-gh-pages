@@ -6,4 +6,8 @@ This is served when you browse the repo on github
 WithOUT detected peaks:  
 ![Ion detection dynamics](https://github.com/chhh/test-new-gh-pages/raw/master/docs/img/gif/with-filter.gif)
 
-Some more text
+Some more text  
+
+Smaller image:  
+
+[[ https://github.com/chhh/test-new-gh-pages/raw/master/docs/img/gif/with-filter.gif | height = 100px ]]
